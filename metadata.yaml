@@ -1,0 +1,47 @@
+_repo: A-Loyal-Little-Red-Coat-A-Story-of-Child-life-in-New-York-a-Hundred-Years-Ago_54132
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ogden, Henry Alexander
+    alias: Ogden, H. A. (Henry Alexander)
+    birthdate: 1856
+    deathdate: 1936
+    gutenberg_agent_id: '47778'
+    url: http://www.gutenberg.org/2009/agents/47778
+creator:
+  author:
+    agent_name: Ogden, Ruth
+    aliases:
+    - Ide, Frances Otis Ogden
+    - Ide, Fannie Ogden
+    - Ide, Charles W., Mrs.
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '716'
+    url: http://www.gutenberg.org/2009/agents/716
+description: ''
+gutenberg_issued: '2017-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Letters -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- GITenberg
+title: 'A Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years
+  Ago'
+url: http://www.gutenberg.org/ebooks/54132
